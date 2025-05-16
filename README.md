@@ -1,0 +1,1 @@
+This is built using angular and spring boot,Restful api for api integration.It allows the user to view the products and manages their profile.It is kind of simiar to one of my projects which is built using mern technology known as EMPLOYEE LEAVE MANAGEMENT SYSTEM.
