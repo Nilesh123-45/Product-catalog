@@ -1,2 +1,2 @@
-# OnlineProductCatalog
-OnlineProductCatalog is a full-stack e-commerce web app built with Spring Boot and Angular. It lets users browse products, manage their cart, and update their profile. With a clean UI and RESTful API integration, it’s a great project to learn how modern frontend and backend technologies work together.
+Product-catalog
+For now it allow user to view the product,manage their profile and many functionalities are yet to published. It is developed using angular and spring-boot .The REST ful api integration is used . It is kind of giving same vibe when i built an employee leave management system but that is built using react, mongodb,next.js and express.js .
